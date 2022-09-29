@@ -1,0 +1,57 @@
+#buy{
+    color: whitesmoke;
+}
+body{
+    background-image: url(purples.jpg);
+}
+#buy1{
+    height: 330px;
+    width: 330px;
+    background-image: url(stteel.jpg);
+    cursor: pointer;
+}
+#buy2{
+    height: 330px;
+    width: 330px;
+    background-image: url(bataman.jpg);
+    cursor: pointer;
+}
+
+#buy3{
+    height: 330px;
+    width: 330px;
+    background-image: url(spi_vs_vulture.webp);
+    cursor: pointer;
+}
+
+#buy4{
+    height: 330px;
+    width: 330px;
+    background-image: url(bat-vs=super.jpg);
+    cursor: pointer;
+}
+
+#buy5{
+    height: 330px;
+    width: 330px;
+    background-image: url(sinchan.jpg);
+    cursor: pointer;
+}
+#buy6{
+    height: 330px;
+    width: 330px;
+    background-image: url(pokemon.jpg);
+    cursor: pointer;
+}
+#buy7{
+    height: 330px;
+    width: 330px;
+    background-image: url(naruto.jpg);
+    cursor: pointer;
+}
+#home_page{
+    height: 30px;
+    width: 30px;
+    background-color: aqua;
+    color: black;
+}

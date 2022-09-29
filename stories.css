@@ -1,0 +1,40 @@
+#s1{
+    height: 330px;
+    width: 330px;
+    background-image: url(the_canterve.jpg);
+    cursor: pointer;
+}
+#s2{ height: 330px;
+    width: 330px;
+    background-image: url(story.jpg);
+    cursor: pointer;
+}
+#s3{
+    height: 330px;
+    width: 330px;
+    background-image: url(grandma.jpg);
+    cursor: pointer;
+}
+#s4{
+    height: 330px;
+    width: 330px;
+    background-image: url(panchatra.jpg);
+    cursor: pointer;
+}
+#s5{
+    height: 330px;
+    width: 330px;
+    background-image: url(Akbar_bibal.jpg);
+    cursor: pointer;
+}
+#s6{
+    height: 330px;
+    width: 330px;
+    background-image: url(jungle.jpg)
+}
+#home_page{
+    height: 30px;
+    width: 30px;
+    background-color: aqua;
+    color: black;
+}

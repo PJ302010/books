@@ -1,0 +1,24 @@
+#title{
+    text-align:center;
+    border-color: whitesmoke;
+    color:white ;
+}
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
+#sign_in{
+    height: 30px;
+    width: 330px;
+    color: black;
+}
+#pass_in{
+    height: 30px;
+    width: 330px;
+    color: rgb(153, 255, 0);
+}
+#next{
+    width: 30px;
+    height: 30px;
+    background-color: burlywood;
+}

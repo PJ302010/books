@@ -1,0 +1,39 @@
+#horror1{
+    height: 220px;
+    width: 220px;
+    background-image: url(horror.jpg);
+    cursor: pointer;
+}
+#h1{
+    height: 220px;
+    width: 220px;
+    background-image: url(AND-THE-ROSE.webp);
+    cursor: pointer;
+}
+body{
+    background-color: lightblue;
+}
+#h3{
+    height: 220px;
+    width: 220px;
+    background-image: url(horror_of_nights.jpg);
+    cursor: pointer;
+}
+#h4{
+    height: 220px;
+    width: 220px;
+    background-image: url(the_canterve.jpg);
+    cursor: pointer;
+}
+#h5{
+    height: 220px;
+    width: 220px;
+    background-image: url(The_girl_glass_case.jpg);
+    cursor: pointer;
+}
+#home_page{
+    height: 60px;
+    width: 60px;
+    background-color: aqua;
+    color: black;
+}
